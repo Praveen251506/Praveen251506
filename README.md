@@ -28,7 +28,7 @@
 🌐**Connect with me in:**
   
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dopamine_level_overloaded_?igsh=MWttMjZzb2wwMmdlMA== )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/praveen-t-a72046265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-t-a72046265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 📧 Email: [praveen.t2516@gmail.com](mailto:praveen.t2516@gmail.com)
 
