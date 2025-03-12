@@ -9,7 +9,7 @@
 
 
 🤜🤛**Hey Pals!**
-- 🔭 I’m currently working at [LinkerEdge](www.linkeredge.in) as Creative Director
+- 🔭 I’m currently working at [LinkerEdge](https://www.linkeredge.in/) as Creative Director
 - ☄️I'm Interested in Both Hardware and Software Domain
 - ⚡Talks about PCB design,Circuit Design,Graphic Design
 - 🕵🏼‍♂️Want's to collaborate with R&D interested people
