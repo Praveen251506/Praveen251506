@@ -8,7 +8,7 @@
 <img align="right" alt="panda"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2owOXlvdGFsb3E3bm9jbmdlYTF1aTNseWh4ZjAwZGh2N2psMHo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EatwJZRUIv41G/giphy.gif"></img>
 
 
-**Hey Pals!**
+🤜🤛**Hey Pals!**
 - 🔭 I’m currently working at [LinkerEdge](www.linkeredge.in) as Creative Director
 - ☄️I'm Interested in Both Hardware and Software Domain
 - ⚡Talks about PCB design,Circuit Design,Graphic Design
@@ -24,3 +24,11 @@
 <p align="left">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen251506&label=Profile%20views&color=0e75b6&style=flat" alt="praveen251506" /> </p>
+  
+🌐**Connect with me in:**
+  
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dopamine_level_overloaded_?igsh=MWttMjZzb2wwMmdlMA== )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/praveen-t-a72046265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+📧 Email: [praveen.t2516@gmail.com](mailto:praveen.t2516@gmail.com)
+
