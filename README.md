@@ -140,8 +140,6 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 - Microprocessors & Microcontrollers
 - Circuit Design & Analysis
 - PCB Design
-- Setup & Hold Time
-- Rise & Fall Time
 - Sensor Interfacing
 
 ### `05  TOOLS & ENVIRONMENT`
