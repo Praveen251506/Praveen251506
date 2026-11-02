@@ -92,13 +92,13 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 
 ## ⚡ MY ENGINEERING TOOLBOX
 
-### `01 // PROGRAMMING LANGUAGES`
+### `01 PROGRAMMING LANGUAGES`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css&theme=dark" />
 </p>
 
-### `02 // EMBEDDED SYSTEMS`
+### `02  EMBEDDED SYSTEMS`
 
 <p align="center">
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
@@ -115,7 +115,7 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 - Bit Manipulation
 - ARM Cortex-M Fundamentals
 
-### `03 // COMMUNICATION & PERIPHERALS`
+### `03 COMMUNICATION & PERIPHERALS`
 
 <p align="center">
 <img src="https://img.shields.io/badge/UART-Serial_Communication-007ACC?style=flat-square" />
@@ -134,7 +134,7 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 - PWM
 - GPIO & EXTI
 
-### `04 // ELECTRONICS & HARDWARE`
+### `04  ELECTRONICS & HARDWARE`
 
 - Digital Electronics
 - Microprocessors & Microcontrollers
@@ -144,7 +144,7 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 - Rise & Fall Time
 - Sensor Interfacing
 
-### `05 // TOOLS & ENVIRONMENT`
+### `05  TOOLS & ENVIRONMENT`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,matlab,figma&theme=dark" />
@@ -158,7 +158,7 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 - VirtualBox & WSL
 - Git & GitHub
 
-### `06 // CURRENTLY EXPLORING`
+### `06  CURRENTLY EXPLORING`
 
 <p align="center">
 <img src="https://img.shields.io/badge/FreeRTOS-RTOS_Concepts-007396?style=for-the-badge" />
@@ -189,22 +189,23 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
-
+ <escape>
+  
+ 📊 GITHUB COMMAND CENTER
+---
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=praveen251506&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- GitHub Statistics -->
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=praveen251506&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen251506&theme=tokyonight&hide_border=true" />
+<!-- GitHub Streak -->
+<img width="48%" src="https://streak-stats.demolab.com/?user=praveen251506&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
+</div></escape>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen251506&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
-
 ## 🎮 BEYOND THE CIRCUITS
 
 <div align="center">
