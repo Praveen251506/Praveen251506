@@ -95,7 +95,7 @@ I'm **Praveen**, an Electronics and Communication Engineering enthusiast who enj
 ### `01 PROGRAMMING LANGUAGES`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
 </p>
 
 ### `02  EMBEDDED SYSTEMS`
